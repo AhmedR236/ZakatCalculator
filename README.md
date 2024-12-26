@@ -5,3 +5,4 @@ To run this file, go to the parent directory of the file, then in the terminal r
 EX. python3 main.py
 
 Afterward, put your finances into the terminal, and the program will tell you your Zakat.
+ (The currency for Zakat is presumed as USD in this program)
